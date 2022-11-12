@@ -1,0 +1,15 @@
+D:\Обучение\ГБ\task\Final_Task_1\bin\Debug\net6.0\Final_Task_1.exe
+D:\Обучение\ГБ\task\Final_Task_1\bin\Debug\net6.0\Final_Task_1.deps.json
+D:\Обучение\ГБ\task\Final_Task_1\bin\Debug\net6.0\Final_Task_1.runtimeconfig.json
+D:\Обучение\ГБ\task\Final_Task_1\bin\Debug\net6.0\Final_Task_1.dll
+D:\Обучение\ГБ\task\Final_Task_1\bin\Debug\net6.0\Final_Task_1.pdb
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\Final_Task_1.csproj.AssemblyReference.cache
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\Final_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\Final_Task_1.AssemblyInfoInputs.cache
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\Final_Task_1.AssemblyInfo.cs
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\Final_Task_1.csproj.CoreCompileInputs.cache
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\Final_Task_1.dll
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\refint\Final_Task_1.dll
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\Final_Task_1.pdb
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\Final_Task_1.genruntimeconfig.cache
+D:\Обучение\ГБ\task\Final_Task_1\obj\Debug\net6.0\ref\Final_Task_1.dll
